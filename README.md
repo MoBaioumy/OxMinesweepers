@@ -13,4 +13,4 @@ This repo includes educational material and resouces for the OxMinesweepers proj
   * Bootcamp 3: Advanced topics
 
 
-### Project descpription and goals
+### Project description and goals
