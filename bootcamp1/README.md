@@ -7,17 +7,16 @@ held virtually (during MT term 2020 at least).
 
 ### Online preparation (~ 0.5-2 hours)
 
-Given that student's backgrounds may differ, this section could be skipped by some, completed in 30 minutes by others or may take a couple of hours. 
+Given that everyone's backgrounds may differ, this section could be skipped by some, completed in 30 minutes by others or may take a couple of hours. 
 Go through it as slowly as you need! **No need to install any special software on your computer.** The recommended resourses are:
-* [Kaggle mini-course on Python](https://www.kaggle.com/learn/python). We recommended you finish sections 1-5. 
-Side bonus: you will be awared a certificate if finish all sections. 
-* [The Linux command line for beginner](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview). We recommend you go through section 1, 3 and 4 at least. 
-If you have access to a linux terminal, use it! Otherwise, you may use online tools such as [CoCalc](https://cocalc.com/projects/0bf48ed3-5f52-4c43-a332-14b9b4fa168f/files/Welcome%20to%20CoCalc.term?session=default).
+* [Python mini-course with Kaggle](https://www.kaggle.com/learn/python). We recommended you finish sections 1-5. 
+Side bonus: you will be awared a certificate if finish all sections.
+* [Linux operating system tutorial with virtual command line](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview). We recommend you go through section 1, 3 and 4 at least. Ideally, you already have a computer with the Linux operating system installed. If not, you can use this online simulator: [CoCalc](https://cocalc.com/projects/0bf48ed3-5f52-4c43-a332-14b9b4fa168f/files/Welcome%20to%20CoCalc.term?session=default). Some commands may work differently or not at all because it's not a real computer but following the tutorial and playing around with it will give you an idea of how to use command line.
 
-### Instructor-led session (~ 2 hours + Q&A) 
+### Instructor-led Session November 7 at 1-3PM (~ 2 hours + Q&A) 
 
-#### Linux walk-through (~ 30 minutes)
+#### Linux Introduction and Overview (30 minutes)
 
-#### Python (~ 1 hour)
+#### Python Basics and Examples (1 hour)
 
-#### Basics of Robotics (~ 30 minutes)
+#### Into to Robotics (30 minutes)
