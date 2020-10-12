@@ -16,7 +16,10 @@ Side bonus: you will be awared a certificate if finish all sections.
 ### Instructor-led Session November 7 at 1-3PM (~ 2 hours + Q&A) 
 
 #### Linux Introduction and Overview (30 minutes)
+This session will cover the basics of Linux and show some common command line tools.
 
 #### Python Basics and Examples (1 hour)
+This session discuss common Python libraries (like numpy and matplotlib). This will be used in an example where a dynamical system is simulated. 
 
 #### Into to Robotics (30 minutes)
+This session will cover (on a high-level) the essential componnents needed to build an autonomous robot. 
