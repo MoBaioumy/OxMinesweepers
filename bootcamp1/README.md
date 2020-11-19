@@ -13,13 +13,13 @@ Go through it as slowly as you need! **No need to install any special software o
 Side bonus: you will be awared a certificate if finish all sections.
 * [Linux operating system tutorial with virtual command line](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview). We recommend you go through section 1, 3 and 4 at least. Ideally, you already have a computer with the Linux operating system installed. If not, you can use this online simulator: [CoCalc](https://cocalc.com/projects/0bf48ed3-5f52-4c43-a332-14b9b4fa168f/files/Welcome%20to%20CoCalc.term?session=default). Some commands may work differently or not at all because it's not a real computer but following the tutorial and playing around with it will give you an idea of how to use command line.
 
-### Instructor-led Session November 7 at 1-3PM (~ 2 hours + Q&A) 
+### Instructor-led Session November 7 2020 at 1-3PM (~ 2 hours + Q&A) 
 
 #### Linux Introduction and Overview (30 minutes)
 This session will cover the basics of Linux and show some common command line tools.
 
 #### Python Basics and Examples (1 hour)
-This session discuss common Python libraries (like numpy and matplotlib). This will be used in an example where a dynamical system is simulated. 
+This session discuss common Python libraries (like numpy and matplotlib). This will be used in an example where a dynamical system is simulated and a PID controller is implemented. The Google Colab notebook for this session will be shared on Slack.
 
 #### Into to Robotics (30 minutes)
 This session will cover (on a high-level) the essential componnents needed to build an autonomous robot. 
